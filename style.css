@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: red;
+    background-color: black;
+}
+.par__1{
+    border:  3px double green;
+    padding: 10px;
+    margin: 50px;
+}
+.img__1{
+    border: 3px double green;
+    padding: 10px;
+    margin: 50px;
+    
+}
+.par__2{
+    border: 3px double green;
+    padding: 10px;
+    margin: 50px;
+}
+.img__2{
+    border: 3px double green; 
+    padding: 10px;
+    margin: 50px;
+}
+
+#secondImg{
+ border: 3px dotted blue;
+}
